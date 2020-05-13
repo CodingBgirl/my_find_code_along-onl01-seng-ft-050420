@@ -9,4 +9,3 @@ def my_find(collection)
     counter += 1
   end
 end
-
